@@ -2,8 +2,8 @@
 Nexium_Internship
 # Assignment 1 – Frontend Foundations
 
-Internship:** Nexium AI-First Web Development Internship  
-Week 1** – Next.js, Tailwind CSS, ShadCN  
+Internship: Nexium AI-First Web Development Internship  
+Week 1 – Next.js, Tailwind CSS, ShadCN  
 Submitted by: <--Muhammad Talha-->
 
 Overview
